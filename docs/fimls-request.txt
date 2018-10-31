@@ -1,0 +1,13 @@
+GET https://api-gate2.movieglu.com/filmsNowShowing/?n=10 HTTP/1.1
+Accept-Encoding: gzip,deflate
+Authorization: Basic TUFUQzpUdXdGUjkwanVSaTA=
+x-api-key: B0OPHicdT3atCMyqTYFHc9ZfK8VtP4N7afh6LHZ3
+client: MATC
+territory: US
+api-version: v200
+device-datetime: 2018-10-31T16:45:30.147Z
+geolocation: 43.0873315,-89.261245
+Host: api-gate2.movieglu.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.1.1 (java 1.5)
+
