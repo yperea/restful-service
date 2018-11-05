@@ -1,0 +1,375 @@
+{
+   "films":    [
+            {
+         "film_id": 246098,
+         "imdb_id": 1502407,
+         "film_name": "Halloween (2018)",
+         "release_dates": [         {
+            "release_date": "2018-10-19",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "R ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+            "age_advisory": "for horror violence and bloody images, language, brief drug use and nudity"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/246098_high.mp4",
+         "synopsis_long": "Jamie Lee Curtis returns to her iconic role as Laurie Strode, who comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/246098/246098h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/246098/246098h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 247729,
+         "imdb_id": 1270797,
+         "film_name": "Venom",
+         "release_dates": [         {
+            "release_date": "2018-10-05",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "PG-13 ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+            "age_advisory": "for intense sequences of sci-fi violence and action, and for language"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/247729_high.mp4",
+         "synopsis_long": "One of Marvel's most enigmatic, complex and badass characters comes to the big screen, starring Academy Award® nominated actor Tom Hardy as the lethal protector Venom.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/247729/247729h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/247729/247729h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 241805,
+         "imdb_id": 1517451,
+         "film_name": "A Star is Born",
+         "release_dates": [         {
+            "release_date": "2018-10-05",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "R ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+            "age_advisory": "for language throughout, some sexuality/nudity and substance abuse"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/241805_high.mp4",
+         "synopsis_long": "In this new take on the tragic love story, he plays seasoned musician Jackson Maine, who discovers - and falls in love with - struggling artist Ally (Gaga). She has just about given up on her dream to make it big as a singer, until Jack coaxes her into the spotlight.  But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/241805/241805h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/241805/241805h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 244880,
+         "imdb_id": 5664636,
+         "film_name": "Goosebumps 2: Haunted Halloween",
+         "release_dates": [         {
+            "release_date": "2018-10-12",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "PG ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+            "age_advisory": "for scary creature action and images, some thematic elements, rude humor and language"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/244880_high.mp4",
+         "synopsis_long": "Slappy is back to wreak more havoc this Halloween in a brand-new comedy adventure based on R.L. Stine's 400-million-selling series of books.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/244880/244880h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/244880/244880h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 247142,
+         "imdb_id": 1213641,
+         "film_name": "First Man",
+         "release_dates": [         {
+            "release_date": "2018-10-12",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "PG-13 ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+            "age_advisory": "for some thematic content involving peril, and brief strong language"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/247142_high.mp4",
+         "synopsis_long": "On the heels of their six-time Academy Award®-winning smash, La La Land, Oscar®-winning director Damien Chazelle and star Ryan Gosling reteam for Universal Pictures' First Man, the riveting story of NASA's mission to land a man on the moon, focusing on Neil Armstrong and the years 1961-1969. A visceral, first-person account, based on the book by James R. Hansen, the movie will explore the sacrifices and the cost on Armstrong and on the nation of one of the most dangerous missions in history.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/247142/247142h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/247142/247142h2.jpg",
+                  "width": 300,
+                  "height": 199
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 117395,
+         "imdb_id": 1846589,
+         "film_name": "Hunter Killer",
+         "release_dates": [         {
+            "release_date": "2018-10-26",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "R ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+            "age_advisory": "for violence and some language"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/117395_high.mp4",
+         "synopsis_long": "An untested American submarine captain teams with Navy SEALS to rescue the Russian president, who has been kidnapped by a rogue general.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/117395/117395h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/117395/117395h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 271600,
+         "imdb_id": 5580266,
+         "film_name": "The Hate U Give",
+         "release_dates":          [
+                        {
+               "release_date": "2018-10-05",
+               "notes": "Limited"
+            },
+                        {
+               "release_date": "2018-10-12",
+               "notes": "Expansion"
+            },
+                        {
+               "release_date": "2018-10-19",
+               "notes": "Nationwide"
+            }
+         ],
+         "age_rating": [         {
+            "rating": "PG-13 ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+            "age_advisory": "for mature thematic elements, some violent content, drug material and language"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/271600_high.mp4",
+         "synopsis_long": "Starr Carter is constantly switching between two worlds: the poor, mostly black, neighborhood where she lives and the rich, mostly white, prep school she attends. The uneasy balance between these worlds is shattered when Starr witnesses the fatal shooting of her childhood best friend Khalil at the hands of a police officer.  Now, facing pressures from all sides of the community, Starr must find her voice and stand up for what's right. THE HATE U GIVE is based on the critically acclaimed New York Times bestseller by Angie Thomas and stars Amandla Stenberg as Starr, with Russell Hornsby, Regina Hall, Common, Anthony Mackie and Issa Rae.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/271600/271600h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/271600/271600h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 250459,
+         "imdb_id": 6182908,
+         "film_name": "Smallfoot",
+         "release_dates": [         {
+            "release_date": "2018-09-28",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "PG ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg.png",
+            "age_advisory": "for some action, rude humor, and thematic elements"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/250459_high.mp4",
+         "synopsis_long": "An animated adventure for all ages, with original music and an all-star cast, Smallfoot turns the Bigfoot legend upside down when a bright young Yeti finds something he thought didn't exist - a human. News of this Smallfoot throws the simple Yeti community into an uproar over what else might be out there in the big world beyond their snowy village, in an all new story about friendship, courage and the joy of discovery.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/250459/250459h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/250459/250459h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 249411,
+         "imdb_id": 6781982,
+         "film_name": "Night School",
+         "release_dates": [         {
+            "release_date": "2018-09-28",
+            "notes": "Nationwide"
+         }],
+         "age_rating": [         {
+            "rating": "PG-13 ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/pg-13.png",
+            "age_advisory": "for crude and sexual content throughout, language, some drug references and violence"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/249411_high.mp4",
+         "synopsis_long": "The comedy follows a group of misfits who are forced to attend adult classes in the longshot chance they'll pass the GED exam.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/249411/249411h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/249411/249411h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      },
+            {
+         "film_id": 276312,
+         "imdb_id": 5613484,
+         "film_name": "Mid90s",
+         "release_dates": [         {
+            "release_date": "2018-10-19",
+            "notes": "Limited"
+         }],
+         "age_rating": [         {
+            "rating": "R ",
+            "age_rating_image": "https://assets.movieglu.com/age_rating_logos/us/r.png",
+            "age_advisory": "for pervasive language, sexual content, drug and alcohol use, some violent behavior/disturbing images - - all involving minors"
+         }],
+         "film_trailer": "https://trailer.movieglu.com/276312_high.mp4",
+         "synopsis_long": "Mid90s follows Stevie, a thirteen-year-old in 90s-era LA who spends his summer navigating between his troubled home life and a group of new friends that he meets at a Motor Avenue skate shop.",
+         "images":          {
+            "poster": {"1":             {
+               "image_orientation": "portrait",
+               "region": "US",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/276312/276312h1.jpg",
+                  "width": 200,
+                  "height": 300
+               }
+            }},
+            "still": {"2":             {
+               "image_orientation": "landscape",
+               "medium":                {
+                  "film_image": "https://image.movieglu.com/276312/276312h2.jpg",
+                  "width": 300,
+                  "height": 200
+               }
+            }}
+         }
+      }
+   ],
+   "status":    {
+      "count": 10,
+      "state": "OK",
+      "method": "filmsNowShowing",
+      "message": null,
+      "request_method": "GET",
+      "version": "MATCv200",
+      "territory": "US",
+      "device_datetime_sent": "2018-10-31T16:45:30.147Z",
+      "device_datetime_used": "2018-10-31 16:45:30"
+   }
+}
